@@ -54,7 +54,7 @@ A telegram bot working as a personal resume
 
 1. Open a terminal.
 
-2. Within the terminal, navigate to the bot's bin directory
+2. Within the terminal, navigate to the bot's directory
 
 ## In windows by using:
 ```
